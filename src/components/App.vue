@@ -21,9 +21,7 @@ import MainNav from "./MainNav/MainNav.vue";
 @Component({
   components: { AppHeader, MainNav }
 })
-export default class App extends Vue {
-  message: string = "Hello!";
-}
+export default class App extends Vue {}
 </script>
 
 <style lang="scss" scoped>
