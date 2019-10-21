@@ -1,0 +1,1 @@
+export const FIRST_AVAILABLE_DATE = "2006.01.01";
