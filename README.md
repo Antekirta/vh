@@ -21,3 +21,7 @@ yarn build
 ```
 yarn serve
 ```
+
+## to test (coverage report is generated in 'test/coverage/index.html'))
+```
+yarn test
