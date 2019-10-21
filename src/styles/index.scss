@@ -1,0 +1,21 @@
+@import "./reset.scss";
+
+:root {
+  --color__white: #fff;
+  --color__gray: #bbb;
+  --color__gray-light: #eee;
+  --color__black: #222;
+  --color__blue: #1867c0;
+  --color__orange: #f44336;
+
+  font-size: 62.5%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Oswald", sans-serif;
+  font-size: 1.4rem;
+}
