@@ -133,7 +133,7 @@ export default class ExchangeWidget extends Mixins(ResponsiveMixin) {
     await this.setRates(payload);
   }
 
-  getAllowedDates(value: string) {
+  getAllowedDates(value: string) : boolean {
     return (
       new Date(value) >= new Date(FIRST_AVAILABLE_DATE) &&
       new Date(value) <= new Date()
