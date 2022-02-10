@@ -45,7 +45,7 @@
     "jest": "^24.9.0",
     "jest-date-mock": "^1.0.7",
     "mini-css-extract-plugin": "^0.8.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.0.0",
     "svg-sprite-loader": "^4.1.6",
     "ts-jest": "^24.1.0",
